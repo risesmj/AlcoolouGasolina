@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_30134d22c402f418123d982bb2037f39de6c358f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c4afdca833dbc3e5894bfa0a46c517c01832d6c">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\instant-run_e41ea1e67d5fef48b8dabf7628f677c0d9340be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.0-alpha1_aaf658a7b3a730b2a975cd89936e584478dd3267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_40543bc0dad6169c58be28fa7e24a4ce4678124b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-26.0.0-alpha1_3e63a593b9546ce77c60cd646c85ecd43a5c4134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.0-alpha1_30134d22c402f418123d982bb2037f39de6c358f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_d8d087d0aef2eace919df549b7b112e7d89455f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_aaf658a7b3a730b2a975cd89936e584478dd3267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_3e63a593b9546ce77c60cd646c85ecd43a5c4134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_3bd309b3e5a88e5e9faf8b191934dcbf9016e9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_e65c7a0f7ecc03cfd4cc5a075cb51cff1b8de30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.0-alpha1_d8d087d0aef2eace919df549b7b112e7d89455f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-26.0.0-alpha1_3bd309b3e5a88e5e9faf8b191934dcbf9016e9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-26.0.0-alpha1_e65c7a0f7ecc03cfd4cc5a075cb51cff1b8de30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_248174b0478084f35aec0ec825529f93d7df70bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.0-alpha1_40543bc0dad6169c58be28fa7e24a4ce4678124b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.0-alpha1_248174b0478084f35aec0ec825529f93d7df70bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_4cc65501e780eb71d1af607e08656cf0b9f3327c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e3e5929df29dbd0abec60c84a4ed4b01af0da87a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_270ee6e9ff020cd991bd63bf31dd5773b69bfa69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\AlcoolouGasolina\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.0-alpha1_4cc65501e780eb71d1af607e08656cf0b9f3327c.jar" />
+    </item>
+
+</items>
